@@ -11,4 +11,4 @@ function busSequencial(vet, procurado) {
     return -1 // caso não encontrado retorne -1 
 }
 
-// Ele vai analizar todos os itens (um por um)
+// Ele vai analisar todos os itens (um por um)

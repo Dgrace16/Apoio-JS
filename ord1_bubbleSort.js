@@ -4,10 +4,10 @@ let vet = require("./amostras/1-mil-nomes.js")
 
 //////////////////////////// bubbleSort ////////////////////////////
 
-// função para ordenar (Numeros, Palavras ou Letras)
+// função para ordenar (Números, Palavras ou Letras)
 function bubbleSort(vet) {
 
-    // Variaveis
+    // Variáveis
     let confirmacao; //Para confirmação para sair do do loop
     let ultimo = vet.length - 1; // para definir que o ultimo valor foi trocado
 
